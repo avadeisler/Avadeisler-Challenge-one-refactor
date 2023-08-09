@@ -18,3 +18,6 @@ I Am pushing it to git hub and deploying it as per the requirements of the chall
 ![Alt text](<Screenshot (1).png>)
 ![Alt text](<Screenshot (2).png>)
 ![Alt text](<Screenshot (3).png>)
+
+Here is the link to the completed web page:
+https://avadeisler.github.io/Challenge-one/
