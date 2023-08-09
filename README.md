@@ -14,4 +14,7 @@ I faced challenges with getting the hero image to show up properly but eventuall
 I also need to brush up on the correct order of CSS and how to properly clean it up. I am worried about putting something in the wrong order and screwing up the code.
 
 I Am pushing it to git hub and deploying it as per the requirements of the challenge.
-Here is a screenshot of the completed web page.
+
+![Alt text](<Screenshot (1).png>)
+![Alt text](<Screenshot (2).png>)
+![Alt text](<Screenshot (3).png>)
