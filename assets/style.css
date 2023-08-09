@@ -1,11 +1,8 @@
-* {
+*
+{
     box-sizing: border-box;
     padding: 0;
     margin: 0;
-}
-
-body {
-    background-color: #d9dcd6;
 }
 
 .header {
@@ -35,17 +32,21 @@ body {
 .header div ul {
     list-style-type: none;
 }
-
+/*I added the inline-block so that this would be on the same line as the header*/
 .header div ul li {
     display: inline-block;
     margin-left: 25px;
+}
+
+body {
+    background-color: #d9dcd6;
 }
 
 a {
     color: #ffffff;
     text-decoration: none;
 }
-
+/*Here I changed the font size so it would be closer to the example.*/
 p {
     font-size: 14px;
 }
@@ -74,6 +75,8 @@ p {
     display: inline-block;
     margin-left: 20px;
 }
+
+/*I changed the height and margins of this section*/
 
 .benefits {
     margin-right: 14px;
