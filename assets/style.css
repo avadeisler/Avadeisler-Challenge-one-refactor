@@ -1,4 +1,9 @@
 *
+/* I had a hard time with getting the hero image to wrap properly but was able
+to figure it out eventually.
+After reading the notes on my challenge 1 grade, 
+I added alt text to images, added more comments to the CSS file and changed the 
+title of my project. */
 {
     box-sizing: border-box;
     padding: 0;
@@ -195,7 +200,7 @@ p {
     padding: 30px;
     clear: both;
 }
-
+/* I changed the size of the footer to match the example more accurately */
 .footer h2 {
     font-size: 20px;
 }
